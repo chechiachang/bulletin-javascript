@@ -43,7 +43,7 @@
                 
                 $("div#carousel").owlCarousel({
                     pagination: false,
-                    slideSpeed: 100,
+                    slideSpeed: 10,
                     singleItem: true,
                     autoPlay: 5000,
                     transitionStyle: "fade"
