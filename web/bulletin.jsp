@@ -29,8 +29,8 @@
         <link href="assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
         <link href="assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
 
-        <script src="bulletin.js"></script>
-        <link rel="stylesheet" href="bulletin.css">
+        <script src="assets/bulletin/bulletin.js"></script>
+        <link rel="stylesheet" href="assets/bulletin/bulletin.css">
 
         <style>
             body{
